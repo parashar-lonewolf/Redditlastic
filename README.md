@@ -6,9 +6,7 @@ Elastisearch on Reddit data
 
 # Setting up the elastisearch instance
 
-1. After having installed docker and docker-compose on your machine.
-
-2. From the directory the docker-compose.yml file is in, call:
+1. From the utils directory the docker-compose.yml file is in, call:
 
 docker-compose up -d
 
@@ -28,7 +26,7 @@ If you want to destroy both processes, use
 
 docker-compose down
 
-4. You should now be able to call and use Elasticsearch. We will learn
+2. You should now be able to call and use Elasticsearch. We will learn
 how to talk to Elasticsearch in the course, so let us now focus on
 verifying that you are setup correctly.
 
