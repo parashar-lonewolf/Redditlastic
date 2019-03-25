@@ -6,7 +6,7 @@ Elastisearch on Reddit data
 
 # Setting up the elastisearch instance
 
-1. From the directory the docker-compose.yml file is in, call:
+1. From the utils directory the docker-compose.yml file is in, call:
 
 docker-compose up -d
 
