@@ -67,3 +67,4 @@ are properly connected, type in the following as node address and press
 
 http://elasticsearch:9200
 
+3. add ELASTICSEARCH_URL=http://localhost:9200 to the environmental variable.
