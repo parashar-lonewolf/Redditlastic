@@ -1,0 +1,3 @@
+class Post(db.Model):
+    __searchable__ = ['body']
+    # ...
